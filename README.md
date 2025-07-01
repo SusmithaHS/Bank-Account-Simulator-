@@ -23,5 +23,5 @@ Build a console based banking system in Java that allows:
 - Stores history of every deposit and withdrawal
 
 ## Output 
--
+-sample output(https://github.com/SusmithaHS/Bank-Account-Simulator-/blob/main/Day5.jpg)
 
